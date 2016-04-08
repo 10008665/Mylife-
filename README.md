@@ -1,1 +1,3 @@
-This website is about my favorite movies ,tv shows, track and music 
+# mylife
+this is my life website 
+I createed a reedme 
